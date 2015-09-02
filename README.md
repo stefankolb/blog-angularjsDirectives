@@ -2,13 +2,13 @@
 
 ## Customizable AngularJS Directives
 
-Example to show customizable AngularJS directives. The corresponding blog post can be found at http://blog.stefankolb.de/2015/02/17/customizable-angularjs-directives/
+Example to show customizable AngularJS directives. The corresponding blog post can be found at http://blog.stefankolb.de/2015/02/18/customizable-angularjs-directives/
 
 ---
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Stefan Kolb <dev@stefankolb.de>
+Copyright (c) 2015 Stefan Kolb &lt;dev@stefankolb.de&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
